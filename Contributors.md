@@ -1,5 +1,6 @@
 # Contributors
 Hey Hi everyone
+- [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Asabul Hossain Mondal](https://github.com/asabulmondal)
 - [WebX Beyond](https://github.com/webxbeyond)
 - [Mantarey.dev](https://mantarey.dev)
@@ -1537,3 +1538,4 @@ Eoin O'B
 -[mattmoodie](https://github.com/mattmoodie)
 - [Likhitha Shree L C](https://github.com/Likhitha-talent)
 - [Vaibhav Patidar](https://github.com/VaibhavPatidar26)
+[Muhammad Hamza Khan](https://github.com/orion-pax09)
